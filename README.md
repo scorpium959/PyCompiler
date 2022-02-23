@@ -10,7 +10,7 @@ execute the bytcode to run a little bit faster, that boost sometimes the python 
 So i grabbed the py_compile library and made a (Literally) 4-lines python 
 code that can grab the name of the file you want to compile.
 
-The result will be in a directory called "__pycache__".
+The result will be in a directory called 'pycache' with underscores.
 
 Remember to put the Code in the same folder as the file you want to compile.
 
