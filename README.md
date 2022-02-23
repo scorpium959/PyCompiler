@@ -13,3 +13,5 @@ code that can grab the name of the file you want to compile.
 The result will be in a directory called "__pycache__".
 
 Remember to put the Code in the same folder as the file you want to compile.
+
+Funfact: i did Compile the PyCompiler code in itself, i did just ran the .py and named the compiler and it just worked.
